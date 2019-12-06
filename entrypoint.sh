@@ -1,3 +1,3 @@
 #!/bin/sh -l
 
-echo "hello $1"
+kindlegen "$1"
